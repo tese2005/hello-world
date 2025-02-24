@@ -1,2 +1,2 @@
 # hello-world
-This is to practice github flow 
+I am Latese and I am a future developer
